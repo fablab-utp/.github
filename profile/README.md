@@ -13,12 +13,11 @@ Nuestros proyectos abarcan diversos lenguajes de programación, como Python, Jav
 - Si no estás familiarizado con alguno de los lenguajes o tecnologías utilizadas en nuestros proyectos, proporcionamos enlaces a recursos y tutoriales para que puedas aprender y sumergirte en ellos.
 
 ### Proyectos
-🚀 **ROBOT-BIM**: Este proyecto consiste en programar un robot para su navegación en edificios y desarrollar aplicaciones que recopilan y analizan datos de campo, comparándolos con los diseños originales.
+Los proyectos están designados por nomenclatura:
+
+🤖 **RIDE**: Robot-inspección de edificios. Este proyecto consiste en programar un robot para su navegación en edificios y desarrollar la aplicación que recopila y analiza los datos de campo, comparándolos con los diseños originales.
+
+👨🏻‍💻 **MLHUB**: Aplicación para servir distintos modelos de Machine Learning en el laboratorio Fab Lab.
 
 ### Recursos
-¿Buscas documentación o recursos adicionales?:
-
-- Instalación y uso de de ROS en el Fab Lab
-- ExpressJS
-- Guía para integrar Unity con ROS#
-- Etc.
+Detallar recursos adicionales...
