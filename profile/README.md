@@ -15,9 +15,9 @@ Nuestros proyectos abarcan diversos lenguajes de programación, como Python, Jav
 ### Proyectos
 Los proyectos están designados por nomenclatura:
 
-🤖 **RIDE**: Robot-inspección de edificios. Este proyecto consiste en programar un robot para su navegación en edificios y desarrollar la aplicación que recopila y analiza los datos de campo, comparándolos con los diseños originales.
+🤖 **RIDE**: Robot-inspección de edificios. Este proyecto consiste en programar un robot para su navegación en edificios y desarrollar la aplicación que recopila y analiza los datos de campo, comparándolos con los diseños originales. [[Ir a repo]](https://github.com/fablab-utp/RIDE-documentacion)
 
-👨🏻‍💻 **MLHUB**: Aplicación para servir distintos modelos de Machine Learning en el laboratorio Fab Lab.
+👨🏻‍💻 **MLHUB**: Aplicación para servir distintos modelos de Machine Learning en el laboratorio Fab Lab. [[Ir a repo]](https://github.com/fablab-utp/MLHUB-app)
 
 ### Recursos
 Detallar recursos adicionales...
